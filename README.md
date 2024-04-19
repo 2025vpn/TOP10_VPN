@@ -25,7 +25,7 @@
 ![10大机场.png](https://s2.loli.net/2024/03/17/u9eTinQ2BDL8Mb4.png)
 
 ---
-## 蓝帆云(LfCloud)
+## 疾风云(JFCloud)
 
 英国团队，稳定运营2年+。
 
@@ -35,7 +35,7 @@
 
 **基础月付9.9每天只需0.33元，不满意24小时可退款**。
 
-官网: [点击注册](https://go.51tz.cc/lanfan)
+官网: [点击注册](https://go.51tz.cc/jfcloud)
 
 ## 奈思云(NiceCloud)
 
@@ -87,7 +87,7 @@ SS协议IEPL全专线，流媒体全解锁。
 
 官网: [点击注册](https://cn.51tz.cc/bitznet)
 
-## 疾风云(JFCloud)
+## 蓝帆云(LfCloud)
 
 🇸🇬 新加坡团队，5 年+运营。月付 10 元起,超高性价比。
 
@@ -95,7 +95,7 @@ BGP全中转+IPLC/IEPL 专线,无直连。
 
 **签到领流量，支持不满意退款**。
 
-官网: [点击注册](https://go.51tz.cc/jfcloud)
+官网: [点击注册](https://go.51tz.cc/lanfan)
 
 ## Wgetcloud
 
