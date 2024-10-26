@@ -22,7 +22,7 @@
 - 安卓推荐 Surfboard、clashforAndroid(CFA) 、v2rayNG
 - linux 推荐 shell clash 或者 clash for windows 的 linux 版本
   
-![10大机场](https://github.com/2025vpn/TOP10_VPN/assets/163795710/9ff0fd16-796d-481d-b789-3ad2846fe0d9)
+![](https://files.superbed.cn/proxy/7468686c6f2633336b776c74736873327f7872327e7f797e736f327f7371337e2e7879257f242e782d29247f7f7e7a782e7a79297e29292c2578247e7f2f797e2d2f29282d2d7e32766c7b.png)
 
 
 ---
