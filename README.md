@@ -22,7 +22,7 @@
 - 安卓推荐 Surfboard、clashforAndroid(CFA) 、v2rayNG
 - linux 推荐 shell clash 或者 clash for windows 的 linux 版本
   
-![](https://www.cnvintage.org/assets/files/2024-12-12/1733983332-104622-image.png)
+![](https://www.cnvintage.org/assets/files/2025-02-26/1740562631-479331-1733983332-104622-image.png)
 
 
 ---
@@ -116,13 +116,13 @@ BGP全中转+IPLC/IEPL 专线,无直连。
 
 **官网: [点击注册](https://go.1vpn.cc/3fan)**
 
-## Wgetcloud
+## 优信云
 
-拥有美国、香港、日本、韩国、台湾、德国等地区节点。
+拥有美国、香港、日本、韩国、台湾、法国、新加坡、马来西亚等地区节点。
 
-基础套餐 49/月。
+基础套餐 14/月。
 
-**官网：[点击注册](https://go.1vpn.cc/ewan)**
+**官网：[点击注册](https://go.1vpn.cc/uxin)**
 
 ## Sufshark VPN
 
